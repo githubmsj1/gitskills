@@ -1,10 +1,8 @@
 # gitskills
 new version
+<<<<<<< HEAD
 oh what?
 AAAA
-<<<<<<< Updated upstream
 
-Git is a free software
-=======
->>>
->>>>>>> Stashed changes
+This is a new start!!! 
+
